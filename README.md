@@ -2,9 +2,6 @@
 
 This is the first file in this repo.
 
-##IPsum Below
+##Website content
 
-Solo texto nuevo
-
-More text
-and More
+1. README.dm
